@@ -1,7 +1,7 @@
 # tp-creaMovie
 
 //TRAVAIL
-J'ai travaillé seule.
+Travail pratique - entrainement au PHP. Travail solitaire.
 
 //FONCTIONNEMENT
 Le fichier **search.php** affiche un formulaire (input pour entrer le nom du film recherché) menant à results.php.
